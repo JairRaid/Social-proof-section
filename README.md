@@ -27,8 +27,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/JairRaid/Social-proof-section
+- Live Site URL: https://jairraid.github.io/Social-proof-section/
 
 ## My process
 
